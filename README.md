@@ -124,7 +124,7 @@ Bu projede performans iyileştirmeleri yaparak siteyi **daha hızlı** hale geti
 ## 💻 Diğer Projeler
 
 Aynı projenin **deploy edilmiş hali(netlify ve render)** versiyonunu başka bir repoda paylaştım. Eğer bu versiyonu denemek isterseniz, işte bağlantı:  
-- [**CarModelProjectReact_LocalHost**](https://github.com/osmandemir2533/CarModelProjectReact)
+- [**CarModelProjectReact**](https://github.com/osmandemir2533/CarModelProjectReact)
 
 ---
 
