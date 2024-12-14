@@ -1,4 +1,4 @@
-# Car Model Project React
+# Car Model Project React Localhost
 
 Bu proje, kullanıcıların otomobil modelleri hakkında kapsamlı bilgiye kolayca erişebilmelerini sağlamak amacıyla tasarlanmış modern bir web sitesidir. Otomobil modelleri hakkında tüm detayları bulabileceğiniz, kolayca gezilebilen ve kullanıcı dostu bir deneyim sunan bu siteyi oluşturduk. Aşağıda siteyle ilgili tüm özellikler ve katkılar detaylı olarak açıklanmıştır.
 
@@ -86,6 +86,16 @@ Bu projede **Axios** kullanarak HTTP istekleri yapılıyor ve **JSON Server** il
     json-server --watch src/data/car.json --port 3001
     ```
     Bu, sunucuyu `http://localhost:3001` adresinde çalıştırır ve verileri Axios ile çekebilir.
+
+## 🖥️ Frontend Run Dev
+
+Bu projede frontend kısmı **npm run dev** komutuyla çalıştırılıyor. Bu komut, React uygulamanızı yerel ortamda başlatır ve `localhost:5173` adresinde görüntülenmesini sağlar.
+
+1. **Frontend’i başlatın**:
+    
+```bash
+npm run dev
+```
 
 ---
 
